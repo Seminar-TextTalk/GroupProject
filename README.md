@@ -88,7 +88,6 @@ Schema
 Models
 [Object Model #1: Users]
 
--------------------------------------------------------
 |Property    |	Type	| Description                    |
 |------------|--------|--------------------------------|
 |userName    |	String|	Unique username for the account|
@@ -97,11 +96,9 @@ Models
 |avatar      |	File	| An image for the users’ profile|
 |phoneNumber |	Number| Unique phone number for account|
 |userFullName|	String|	Full name of user              |
-|------------------------------------------------------|
 
 [Object Model #2: Messages]
 
-----------------------------------------------------------------------|
 |Property	  |Type	            |Description                            |
 |-----------|-----------------|---------------------------------------|
 |objectId	  |String	          |Unique for the users’ messages         |
@@ -111,18 +108,15 @@ Models
 |textLength	|number	          |Limits number of characters in messages|
 |createdAt	|DateTime	        |Date when message was created          |
 |sentAt	    |DateTime	        |Date when message was sent             |
-|---------------------------------------------------------------------|
 
 [Object Model #3: Contacts]
 
----------------------------------------------------------------------------|
 |Property	              |Type	            |Description                     |
 |-----------------------|-----------------|--------------------------------|
 |contactName	          |Pointer to User	|username as contact name        |
 |contactPhoneNumber     |number	          |Unique number for contact number|
 |contactOfficeNumber    |string	          |Identifies the contact’s office |
 |ContactOrganizationName|string	          |Identifies user organization    |
-|-----------------------|-----------------|--------------------------------|
 
 Networking
 User Profile Screen
