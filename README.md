@@ -103,6 +103,7 @@ Models
 
 ----------------------------------------------------------------------|
 |Property	  |Type	            |Description                            |
+|-----------|-----------------|---------------------------------------|
 |objectId	  |String	          |Unique for the users’ messages         |
 |author	    |Pointer to User	|Identifies message’s origin            |
 |image	    |file	            |Image that users’ send                 |
@@ -116,6 +117,7 @@ Models
 
 ---------------------------------------------------------------------------|
 |Property	              |Type	            |Description                     |
+|-----------------------|-----------------|--------------------------------|
 |contactName	          |Pointer to User	|username as contact name        |
 |contactPhoneNumber     |number	          |Unique number for contact number|
 |contactOfficeNumber    |string	          |Identifies the contact’s office |
