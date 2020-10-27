@@ -118,18 +118,22 @@ Models
 |contactOfficeNumber    |string	          |Identifies the contact’s office |
 |ContactOrganizationName|string	          |Identifies user organization    |
 
-Networking
+[Networking]
+
 User Profile Screen
+
 *(Read/GET) Query logged in user object
 *(Update/PUT) Update user profile image
 *(Create/POST) Create contact and post in via phome book.
 *(Update/PUT) Update any contact
 
 Home Feed Screen
+
 *(Read/GET) Query all messages where the user is author
 *(Delete) Delete existing messaging threads
 
 Create thread screen
+
 *(Create/POST) Create a new thread. Choose a deaored user to send the message and post/ send message in the thread.
 *(Create/POST) Create a message where the user can send pictures
 
