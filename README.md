@@ -25,8 +25,8 @@ Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories
 
-User can register for an account
-User can sign in after account registration
+User can register for an account [X]
+User can sign in after account registration [X]
 User can send a text message consisting of a 500-word limit
 User can create and view recipient’s contact information via phonebook
 User can create and view their contact information via phonebook
@@ -44,9 +44,9 @@ User can reset password if forgotten
 User can search through text messages
 2. Screen Archetypes
 Registration Screen
-User can register for an account
+User can register for an account [X]
 Login Screen
-User can sign in after account registration
+User can sign in after account registration [X]
 Creation
 User can send pictures via gallery or camera
 User can send a text message consisting of a 500-word limit
@@ -77,11 +77,8 @@ Stream
 Contacts
 Profile
 Wireframes
-[Add picture of your hand sketched wireframes in this section]
+[https://www.figma.com/file/fYHy9zl4mCpsA4MVeDMUiT/Untitled?node-id=0%3A1]
 
-
-[Bonus] Digital Wireframes & Mockups [Complete]
-[BONUS] Interactive Prototype [Complete]
 Schema
 [This section will be completed in Unit 9]
 
