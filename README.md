@@ -27,12 +27,11 @@ Required Must-have Stories
 
 User can register for an account [X]
 User can sign in after account registration [X]
-User can send a text message consisting of a 500-word limit
-User can create and view recipient’s contact information via phonebook
-User can create and view their contact information via phonebook
-User can update contact information via phonebook
-User can send pictures via gallery or camera
-User can view and scroll through text messages from different contacts
+User can send a text message consisting of a 500-word limit [X]
+User can create and view recipient’s contact information via phonebook [X]
+User can create and view their contact information via phonebook [X]
+User can view and scroll through text messages from different contacts [X]
+
 Optional Nice-to-have Stories
 
 User can send gifs via gallery or camera
@@ -40,22 +39,26 @@ User can send videos via gallery or camera
 User can send voice messages
 User can send contact information via phonebook
 User can send location
-User can reset password if forgotten
+User can reset password if forgotten [X]
 User can search through text messages
+
 2. Screen Archetypes
 Registration Screen
 User can register for an account [X]
+
 Login Screen
 User can sign in after account registration [X]
+
 Creation
-User can send pictures via gallery or camera
-User can send a text message consisting of a 500-word limit
+User can send a text message consisting of a 500-word limit [X]
+
 Profile
-User can create and view recipient’s contact information via phonebook
-User can create and view their contact information via phonebook
-User can update contact information via phonebook
+User can create and view recipient’s contact information via phonebook [X]
+User can create and view their contact information via phonebook [X]
+
 Stream
-User can view and scroll through text messages from different contacts
+User can view and scroll through text messages from different contacts [X]
+
 3. Navigation
 Tab Navigation (Tab to Screen)
 
